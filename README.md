@@ -66,6 +66,11 @@ pomodorus/
 - **Configuración flexible**: duración ajustable para trabajo, recreo corto y recreo largo (5–60 min, step 5)
 - **Soporte PWA**: service worker registrado en producción
 
+## Deploy
+
+Disponible en GitHub Pages:  
+[https://salchavan.github.io/Pomodorus/](https://salchavan.github.io/Pomodorus/)
+
 ## Licencia
 
 MIT
